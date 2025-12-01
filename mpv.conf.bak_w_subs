@@ -1,0 +1,13 @@
+#vo=wlshm
+alang=en
+log-file=~/log
+slang=en
+sid=auto
+gpu-content=wayland
+gpu-api=opengl
+vo=gpu
+hwdec=auto
+video-sync=display-resample
+scale=ewa_lanczossharp
+#subs-with-matching-audio=yes
+#sub-auto=fuzzy
