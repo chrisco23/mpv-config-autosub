@@ -1,0 +1,17 @@
+#vo=wlshm
+alang=en
+log-file=~/log
+slang=en
+sid=auto
+
+gpu-context=wayland
+pipewire-buffer=40
+profile=high-quality
+scale=ewa_lanczos
+gpu-api=opengl
+vo=gpu-next
+hwdec=auto
+scale=ewa_lanczos
+#subs-with-matching-audio=yes
+#sub-auto=fuzzy
+
